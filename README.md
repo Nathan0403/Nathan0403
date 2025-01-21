@@ -15,26 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-***Projets***
+### **Projects**
 
-Projet universitaire : Développement d'un site web
-        Rôle : Conception visuelle et intégration graphique.
-        Technologies : HTML, CSS, JavaScript.
-        Résultats : Collaboration réussie en équipe, respect des délais et amélioration des compétences en design UX/UI.
+**University Project: Website Development**  
+- **Role**: Visual design and graphic integration.  
+- **Technologies**: HTML, CSS, JavaScript.  
+- **Results**: Successful team collaboration, meeting deadlines, and improved UX/UI design skills.  
 
-Stage : Création de site web & Community Management
-        Entreprise : Au Vide Grenier Nieppe.
-        Activités principales : Création de contenu régulier pour améliorer la visibilité de l'entreprise.
-        Outils : Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro.
+**Internship: Website Creation & Community Management**  
+- **Company**: Au Vide Grenier Nieppe.  
+- **Main Activities**: Regular content creation to enhance the company's visibility.  
+- **Tools**: Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro.  
 
-***Compétences Techniques***
+---
 
-Création graphique : Logos, UX/UI design, montage vidéo, supports de communication.
-Développement web : HTML, CSS, JavaScript.
-Logiciels maîtrisés : Adobe Suite (Illustrator, Photoshop, Premiere Pro).
+### **Technical Skills**
 
-***Certifications et Cursus***
+- **Graphic Design**: Logos, UX/UI design, video editing, communication materials.  
+- **Web Development**: HTML, CSS, JavaScript.  
+- **Software Proficiency**: Adobe Suite (Illustrator, Photoshop, Premiere Pro).  
 
-DEUST BCMM W2D (Depuis 2023) - ULCO Calais.
-BUT Informatique (2022-2023) - IUT Littoral Côte d’Opale.
-Baccalauréat (2022) - Lycée Saint-Jacques Hazebrouck.
+---
+
+### **Certifications and Education**
+
+- **DEUST BCMM W2D** (Since 2023) - ULCO Calais.  
+- **BUT Computer Science** (2022-2023) - IUT Littoral Côte d’Opale.  
+- **High School Diploma** (2022) - Lycée Saint-Jacques Hazebrouck.  
